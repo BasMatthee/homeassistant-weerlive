@@ -1,0 +1,8 @@
+{
+  "domain": "weerlive",
+  "name": "KNMI Weerlive",
+  "version": "1.0",
+  "documentation": "https://github.com/BasMatthee/homeassistant-weerlive",
+  "dependencies": [],
+  "codeowners": ["@basmatthee"]
+}

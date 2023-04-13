@@ -1,0 +1,5 @@
+{
+  "name": "KNMI Weerlive",
+  "render_readme": true,
+  "domains": ["sensor"]
+}
