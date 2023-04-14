@@ -1,3 +1,5 @@
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
+
 # homeassistant-weerlive
 
 ## Weerlive custom_component for Home-Assistant
